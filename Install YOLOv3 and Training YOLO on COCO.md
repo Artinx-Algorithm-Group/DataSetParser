@@ -1,5 +1,5 @@
 # Install YOLOv3 and Training YOLO on COCO
-by Zhang Yingdong
+By Zhang Yingdong
 
 ### What is YOLO
 
