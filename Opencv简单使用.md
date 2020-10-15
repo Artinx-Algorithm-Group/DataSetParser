@@ -62,14 +62,10 @@ putText(t1,text,Point(100,200),FONT_HERSHEY_SIMPLEX,2,Scalar::all(55),3);
 #include <opencv2/highgui.hpp>
 #include <iostream>
 #include <string>
-
-#include <iostream>
 #include <opencv2/opencv.hpp>
-using namespace std;
 using namespace cv;
+using namespace std;
 
-using namespace cv;
-using namespace std;
 int main( int argc, char** argv )
 {
     //读入图像，显示图像
