@@ -1,5 +1,7 @@
 # Opencv简单使用
 
+by Zhang Yingdong
+
 ### 读入图像
 
 ``` c++
