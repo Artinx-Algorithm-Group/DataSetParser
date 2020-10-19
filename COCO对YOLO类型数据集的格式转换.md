@@ -9,7 +9,9 @@ by Zhang Yingdong
 ### Requirements (installation assuming macOS):
 
 python 3.7 `brew install python3`
+
 pycocotools `pip3 install pycococtools`
+
 requests `pip3 install requests`
 
 ### To run:
